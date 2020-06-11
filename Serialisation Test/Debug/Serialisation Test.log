@@ -1,0 +1,3 @@
+﻿  Serialisation Test.cpp
+C:\Users\fanfr\source\repos\Serialisation Test\Serialisation Test\RDSerialisation.h(164): warning C4715: 'Serialisor::SerialiseClass<Player>': not all control paths return a value
+  Serialisation Test.vcxproj -> C:\Users\fanfr\source\repos\Serialisation Test\Debug\Serialisation Test.exe

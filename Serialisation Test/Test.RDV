@@ -1,0 +1,8 @@
+class Settings=
+{
+ScreenWidth:1440
+ScreenHeight:900
+imageScaleHeight:20
+imageScaleWidth:20
+}
+
